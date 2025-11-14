@@ -1,4 +1,4 @@
-# 📊 Vanguard A/B Test — Proyecto Módulo 2
+# 📊 Vanguard A/B Test — Proyecto 2
 **Autores:** David Barrero · Elías Chafih · Luis Fernández  
 **Bootcamp:** Data Analytics — Ironhack  
 
